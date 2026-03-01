@@ -3,7 +3,7 @@
 
 **Année universitaire 2025-2026**  
 **Encadrant : Pr. Soumia Ziti**  
-**Étudiants : HENOVI Komla Alban et coéquipiers**  
+**Étudiants : HENOVI Komla Alban et DIOP Asta Walo**  
 **Projet sélectionné : Projet 4 – Prédiction binaire de la pluie demain (RainTomorrow)**
 
 ## Contexte et Objectif
