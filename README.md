@@ -49,13 +49,18 @@ Projet4_Rain_in_Australia/
 ├── data/
 │   └── weatherAUS.csv                ← dataset
 ├── notebooks/
-│   └── Projet4_Prevision_Pluie.ipynb ← notebook principal Python (à créer)
+│   └── Projet4_Prevision_Pluie.ipynb ← notebook principal Python
 ├── reports/
 │   └── rapport_IMRADC_draft.pdf      ← brouillon du rapport final (optionnel)
 ├── orange_workflows/                 ← dossier pour les .ows (à remplir)
 ├── requirements.txt                  ← dépendances Python
 └── README.md                         ← ce fichier
 ```
+
+## Livrables attendus
+
+- Prototype Python : `notebooks/Projet4_Prevision_Pluie.ipynb`
+- Workflow Orange : `orange_workflows/*.ows` (livrable final)
 
 ## Prérequis (prototype Python)
 
@@ -106,7 +111,8 @@ jupyter notebook notebooks/Projet4_Prevision_Pluie.ipynb
 
 ## Auteurs
 
-- HENOVI Komla Alban (@AlbanHenovi)
+- HENOVI Komla Alban
+- DIOP Asta Walo
 
 ## Licence
 
